@@ -7,6 +7,7 @@
         ( t (*(Fact(- n 1)) n )) ;Salto de fe
     )
 )
+
 ;-----------------------------------------------------------------
 ;----------------------- IMPLEMENTACIÓN --------------------------
 (princ "Ingrese un numero del que quiere obtener su factorial: ")
